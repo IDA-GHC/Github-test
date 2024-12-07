@@ -13,3 +13,4 @@ fi
 echo "Hello, World!"
 echo "Welocome IDA"
 echo " welcome to aws devOps"
+echo "hello"
